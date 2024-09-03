@@ -6,4 +6,4 @@ Es extensivo el uso de archivos Readme en formato MarkDown, lo cual permite a te
 
 ## Formato MarkDown
 
-Para conocer mejor la sintaxis de Markdown, consultar en [markdownguide] (https://markdownguide.offshoot.io/basic-syntax/)
+Para conocer mejor la sintaxis de Markdown, consultar en [markdownguide](https://markdownguide.offshoot.io/basic-syntax/)
