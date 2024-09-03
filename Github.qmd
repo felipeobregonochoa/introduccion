@@ -1,0 +1,29 @@
+---
+title: "Introducción a Github con Rstudio"
+author: "Felipe Obregón Ochoa"
+format: html
+editor: visual
+---
+
+## Git y Github
+
+Lo primero que tenemos que tener claro al momento de usar Github es qué es Git, el cual es un software de control de versiones orientado a desarrolladores y personas que trabajan con diferentes lenguajes de programación, lo cual facilita el trabajo en equipos y corrección de errores.
+
+Por otro lado, Github es una plataforma que permite alojar repositorios y colaborar entre equipos, mediante el uso de Git.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
